@@ -3,8 +3,6 @@
     "node": true,
     "esnext": true,
     "globals": {
-        "AI": true,
-
         "_": true,
         "Game": true,
         "Memory": true,
